@@ -1,0 +1,5 @@
+#######################################
+# Olá, Bom dia, boa tarde e boa noite #
+#######################################
+
+esse script é utilizado para Remover colunas especificas, realizar cálculos de soma e "ProcV" e agrupar os dados necessários em uma planilha apenas, sendo possível após isso abrir a nova planilha ou formatá-la de acordo com o que foi pedido
